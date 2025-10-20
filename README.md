@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Jinwoo Roh
 
-🎓 **MSBA Candidate at UCLA Anderson ('26)**  
-📊 **Data & Growth Strategist in Tech / Analytics**  
-💼 **7+ years** in marketing analytics & data-driven growth across startups and global agencies.  
+🎓 **MSBA at UCLA Anderson ('26) | Korea University B.A. Industrial Management Engineering (’16)**  
+📊 **Data Analyst & Growth Marketing**  
+💼 **7+ years** in marketing analytics & data-driven growth across tech, startups, and global agencies.  
 💬 Bilingual in English 🇺🇸 and Korean 🇰🇷  
 
 ---
 
 ### 🧠 About Me
 I specialize in bridging **data science, analytics, and business strategy** to drive measurable growth.  
-My work blends **BI engineering**, **user acquisition analytics**, and **machine learning** to turn complex datasets into actionable insights.
+My work blends **BI engineering**, **user analytics**, and **machine learning** to turn complex datasets into actionable insights.
 
 - 🔍 Passionate about *music, tech, and data visualization*  
 - 💡 Experienced in building analytics frameworks that scale  
@@ -87,3 +87,4 @@ Developed a supplement-tracking app with custom reminders, intake tracking, and 
 ---
 
 ⭐ *“Turning data into strategy, and strategy into impact.”*  
+
